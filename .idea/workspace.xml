@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="afd42113-6267-4860-a32f-5cf9d7890a9c" name="Changes" comment="&quot;add api check script&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/api_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/api_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.8/site-packages/_pytest/python.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.8/site-packages/_pytest/python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.8/site-packages/_pytest/python_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.8/site-packages/_pytest/python_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.8/site-packages/_pytest/python_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.8/site-packages/_pytest/python_path.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/pyvenv.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/pyvenv.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +90,7 @@
       <workItem from="1786307393123" duration="23000" />
       <workItem from="1786307453527" duration="95000" />
       <workItem from="1786387294970" duration="11251000" />
-      <workItem from="1786988261774" duration="9688000" />
+      <workItem from="1786988261774" duration="10956000" />
     </task>
     <servers />
   </component>
