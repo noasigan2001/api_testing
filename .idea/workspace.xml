@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd42113-6267-4860-a32f-5cf9d7890a9c" name="Changes" comment="&quot;add api check script&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.8/site-packages/_pytest/python_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.8/site-packages/_pytest/python_path.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/pyvenv.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/pyvenv.py" afterDir="false" />
-    </list>
+    <list default="true" id="afd42113-6267-4860-a32f-5cf9d7890a9c" name="Changes" comment="&quot;add api check script&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +95,7 @@
       <workItem from="1787604267162" duration="423000" />
       <workItem from="1787604829350" duration="228000" />
       <workItem from="1788987908783" duration="10190000" />
-      <workItem from="1789484805874" duration="7904000" />
+      <workItem from="1789484805874" duration="8205000" />
     </task>
     <servers />
   </component>
